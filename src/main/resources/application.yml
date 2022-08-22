@@ -1,0 +1,6 @@
+server:
+  port: 10000
+
+wx:
+  appId: appId
+  appSecret: appSecret
